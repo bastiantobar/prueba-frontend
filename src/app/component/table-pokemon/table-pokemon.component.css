@@ -1,0 +1,11 @@
+.pokemon-table-section {
+  padding: 20px;
+  margin: auto;
+  max-width: 800px; /* Ajusta esto según tus necesidades */
+}
+
+@media (max-width: 768px) {
+  .pokemon-table-section {
+    padding: 10px;
+  }
+}
